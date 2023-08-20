@@ -1,0 +1,33 @@
+collaborative-note-taking-app/
+|-- go-backend/
+|   |-- main.go
+|   |-- api/
+|   |   |-- handlers/
+|   |   |-- routes/
+|   |-- config/
+|   |-- models/
+|   |-- tests/
+|-- python-backend/
+|   |-- app.py
+|   |-- sketch_enhancement/
+|   |   |-- enhancement_algorithm.py
+|   |-- requirements.txt
+|-- frontend/
+|   |-- public/
+|   |-- src/
+|   |   |-- components/
+|   |   |-- services/
+|   |   |-- pages/
+|   |   |-- App.js
+|   |   |-- index.js
+|   |-- package.json
+|   |-- README.md
+|-- database/
+|-- documentation/
+|   |-- README.md
+|-- tests/
+|-- .gitignore
+|-- .env
+|-- README.md
+|-- CONTRIBUTING.md
+|-- LICENSE
